@@ -135,4 +135,4 @@ extension-support.txt:
 	sh tools/list-extension-support.sh > $@
 
 upload :
-	rsync -avz --delete --copy-links -e "ssh" $(SITE)/* website:pandoc.org/
+	rsync -avz --delete --exclude site/app --copy-links -e "ssh" $(SITE)/* website:pandoc.org/
