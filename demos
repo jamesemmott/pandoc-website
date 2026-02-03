@@ -2,10 +2,7 @@
 
 # Try pandoc online
 
-You can try pandoc online [here](https://pandoc.org/try).
-
-There is also a (limited) [webasm version of pandoc that runs in your
-browser](https://tweag.github.io/pandoc-wasm/).
+You can try pandoc in your browser at <https://pandoc.org/app>.
 
 # Examples
 
