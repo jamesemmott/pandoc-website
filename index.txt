@@ -227,7 +227,6 @@ Copyright 2006--2025 [John MacFarlane].
 [Haddock markup]: http://www.haskell.org/haddock/doc/html/ch03s08.html
 [Lua]: http://www.lua.org
 [reveal.js]: http://lab.hakim.se/reveal-js/
-[InDesign ICML]: http://wwwimages.adobe.com/content/dam/acom/en/devnet/indesign/sdk/cs6/idml/idml-specification.pdf
 [OPML]: http://dev.opml.org/spec2.html
 [DokuWiki markup]: https://www.dokuwiki.org/wiki:syntax
 [TWiki markup]: http://twiki.org/cgi-bin/view/TWiki/TextFormattingRules
@@ -266,3 +265,4 @@ Copyright 2006--2025 [John MacFarlane].
 [mdoc]: https://mandoc.bsd.lv/man/mdoc.7.html
 [Vimdoc]: https://vimhelp.org/helphelp.txt.html#help-writing
 [BBCode]: https://www.bbcode.org/reference.php
+[InDesign ICML]: https://web.archive.org/web/20211006210211/https://wwwimages.adobe.com/www.adobe.com/content/dam/acom/en/devnet/indesign/sdk/cs6/idml/idml-cookbook.pdf
